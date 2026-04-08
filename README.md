@@ -1,4 +1,4 @@
-![Cover](Cover.png)
+![Cover](cover.png)
 
 # Claude Code — macOS Notifications Setup
 
